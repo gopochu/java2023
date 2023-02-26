@@ -5,7 +5,8 @@ public class Main {
         Scanner in = new Scanner(System.in);
         System.out.print("Введите имя: ");
         String name = in.nextLine();
-        System.out.print("Приветствую" + name);
+        System.out.print("Приветствую " + name);
+        System.out.println();
 
         System.out.println("градусов: " + "0" + "  30 " + "     45     " + "    60    " + " 90 " + " 180" + " 270 " + " 360");
         System.out.println("------------------------------------------------------------------------------------------------");

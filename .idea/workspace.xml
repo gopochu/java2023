@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="11df164e-5069-4ef3-959c-0ea01d425590" name="Changes" comment="">
+    <list default="true" id="11df164e-5069-4ef3-959c-0ea01d425590" name="Changes" comment="add user input and sine table">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -52,6 +52,14 @@
       <option name="presentableId" value="Default" />
       <updated>1676912432253</updated>
     </task>
+    <task id="LOCAL-00001" summary="add user input and sine table">
+      <created>1677426383169</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677426383169</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -64,5 +72,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add user input and sine table" />
+    <option name="LAST_COMMIT_MESSAGE" value="add user input and sine table" />
   </component>
 </project>
