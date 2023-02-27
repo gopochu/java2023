@@ -4,7 +4,7 @@ class MathTest {
     Math math = new Math();
 
     @org.junit.jupiter.api.Test
-    void SignIsInputNumberNull() {
+    void SignIsInputNumberZero() {
         int x = 0;
         int in = 0;
         assertEquals(x, math.sign(in));
