@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="11df164e-5069-4ef3-959c-0ea01d425590" name="Changes" comment="Task 2.1">
+    <list default="true" id="11df164e-5069-4ef3-959c-0ea01d425590" name="Changes" comment="Task 2.1 test update">
+      <change afterPath="$PROJECT_DIR$/src/Mark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -51,7 +55,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MathTest.FactInputNumberNotNegative">
+  <component name="RunManager">
     <configuration name="MathTest.FactInputNumberMoreThirdteeen" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java2023project" />
       <option name="PACKAGE_NAME" value="" />
@@ -155,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677513738315</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Task 2.1 test update">
+      <created>1677523986371</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677523986371</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,6 +184,7 @@
     <MESSAGE value="add user input and sine table" />
     <MESSAGE value="Fix output" />
     <MESSAGE value="Task 2.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 2.1" />
+    <MESSAGE value="Task 2.1 test update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 2.1 test update" />
   </component>
 </project>
