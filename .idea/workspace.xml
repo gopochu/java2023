@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="11df164e-5069-4ef3-959c-0ea01d425590" name="Changes" comment="Task 2.1 test update">
-      <change afterPath="$PROJECT_DIR$/src/Mark.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task.java" afterDir="false" />
+    <list default="true" id="11df164e-5069-4ef3-959c-0ea01d425590" name="Changes" comment="2.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/Mark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/Task.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -44,7 +44,8 @@
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
     &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/vadla/Downloads/sonarlint-intellij-8.0.0.63273.zip&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -55,7 +56,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.MathTest.FactInputNumberMoreThirdteeen">
     <configuration name="MathTest.FactInputNumberMoreThirdteeen" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java2023project" />
       <option name="PACKAGE_NAME" value="" />
@@ -166,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677523986371</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Task 2.1 test update">
+      <created>1678026473185</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678026473185</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
