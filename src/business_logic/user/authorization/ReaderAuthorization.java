@@ -5,11 +5,12 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 
-public class Reader_authorization {
+//Класс авторизации в аккаунт и выхода из него
+public class ReaderAuthorization {
     private BufferedReader output;
     private Process process;
 
-    public void DebitCardReader() throws IOException {
+    public void debitCardReader() throws IOException {
         ProcessBuilder pb = new ProcessBuilder("cardreader.exe"); // указать имя исполняемого файла для работы с считывателем карт
         pb.redirectErrorStream(true);
         process = pb.start();

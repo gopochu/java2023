@@ -1,12 +1,15 @@
 package business_logic.user.replenishment_and_withdrawal;
+import lombok.Getter;
+import lombok.Setter;
+
 import java.math.BigDecimal;
 
+//Внесение наличных
+
 public class Refill {
-    private String cardNumber;
     private BigDecimal balance;
 
-    public Refill(String cardNumber, BigDecimal balance) {
-        this.cardNumber = cardNumber;
+    public Refill(BigDecimal balance) {
         this.balance = balance;
     }
 
@@ -14,11 +17,12 @@ public class Refill {
         balance = balance.add(amount);
     }
 
-    public String getCardNumber() {
-        return cardNumber;
-    }
 
     public BigDecimal getBalance() {
         return balance;
     }
+
+    @Getter
+    @Setter
+    private int b = 10;
 }
