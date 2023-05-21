@@ -1,39 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="11df164e-5069-4ef3-959c-0ea01d425590" name="Changes" comment="Задание 3.1">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/business_logic/collector/Opening_safe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/business_logic/servicer/Servicer_login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/business_logic/user/Logout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/business_logic/user/Show_bill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/business_logic/user/Translation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/business_logic/user/authorization/Authorization_check.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/business_logic/user/authorization/Nfc_authorization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/business_logic/user/authorization/Reader_authorization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/business_logic/user/replenishment_and_withdrawal/Refill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/business_logic/user/replenishment_and_withdrawal/Withdrawal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/business_logic/user/service_payment/Fine_payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/business_logic/user/service_payment/Taxes_payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/business_logic/user/service_payment/Top_up_phone_balance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/umlJava2023.drawio" afterDir="false" />
+    <list default="true" id="11df164e-5069-4ef3-959c-0ea01d425590" name="Changes" comment="Промежуточный проверочный коммит">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/4/348807c7464b4d5ecbd4c129829a5a2eb4fac1e2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/5703086b74738334ebd0e2a7be09ecfb416815ea" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/57bf6db8cd4837bf5e629570db41e0ac9f2f7968" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6d2668338d872192319a40a0937b09a671b7a8b2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8a6b6698213c569ace19fbd719bb45d0bcfaf3a5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bba8743da52e6f5b68d43513069ed668e10d0091" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/4/348807c7464b4d5ecbd4c129829a5a2eb4fac1e2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/7/5703086b74738334ebd0e2a7be09ecfb416815ea" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/7/57bf6db8cd4837bf5e629570db41e0ac9f2f7968" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/d/6d2668338d872192319a40a0937b09a671b7a8b2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/a/8a6b6698213c569ace19fbd719bb45d0bcfaf3a5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/b/bba8743da52e6f5b68d43513069ed668e10d0091" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/database/StatementDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java2023project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java2023project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Math.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MathTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TaskTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/study/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/study/Mark.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/study/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/study/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/business_logic/user/authorization/Authorization_check.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/business_logic/user/authorization/AuthorizationCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/business_logic/user/authorization/ReaderAuthorization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/business_logic/user/authorization/ReaderAuthorization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/business_logic/user/replenishment_and_withdrawal/Refill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/business_logic/user/replenishment_and_withdrawal/Refill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/business_logic/user/service_payment/Top_up_phone_balance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/business_logic/user/service_payment/TopUpPhoneBalance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/database/DatabaseConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/database/DatabaseConnection.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,10 +51,22 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="gopochu &lt;vadlaped@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="2M0lYqIBS3a52MvgPBAaKtUhmRL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -60,23 +74,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/vadla/Downloads/sonarlint-intellij-8.0.0.63273.zip&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/vadla/Downloads/sonarlint-intellij-8.0.0.63273.zip",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -85,7 +111,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MathTest.FactInputNumberMoreThirdteeen">
+  <component name="RunManager">
     <configuration name="MathTest.FactInputNumberMoreThirdteeen" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java2023project" />
       <option name="PACKAGE_NAME" value="" />
@@ -167,6 +193,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676912432253</updated>
+      <workItem from="1684258121201" duration="2254000" />
+      <workItem from="1684262042334" duration="663000" />
+      <workItem from="1684409853879" duration="650000" />
+      <workItem from="1684421134489" duration="530000" />
+      <workItem from="1684593650740" duration="4513000" />
+      <workItem from="1684676772075" duration="4470000" />
     </task>
     <task id="LOCAL-00001" summary="add user input and sine table">
       <created>1677426383169</created>
@@ -210,15 +242,51 @@
       <option name="project" value="LOCAL" />
       <updated>1679152103566</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Промежуточный проверочный коммит">
+      <created>1684258745304</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1684258745304</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Промежуточный проверочный коммит">
+      <created>1684259090745</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1684259090745</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Промежуточный проверочный коммит">
+      <created>1684259136639</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1684259136639</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -230,6 +298,7 @@
     <MESSAGE value="Task 2.1" />
     <MESSAGE value="Task 2.1 test update" />
     <MESSAGE value="Задание 3.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание 3.1" />
+    <MESSAGE value="Промежуточный проверочный коммит" />
+    <option name="LAST_COMMIT_MESSAGE" value="Промежуточный проверочный коммит" />
   </component>
 </project>

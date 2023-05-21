@@ -25,7 +25,7 @@ public class ReaderAuthorization {
         return cardData;
     }
 
-    private boolean isCardInserted(){
+    public static boolean isCardInserted(){
         return true;
     }
     public void dispose() {
